@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey there!
 
-<!--
-**yahya2912/yahya2912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Yahya and I am an engineering student.
+I am interested in Embedded Systems Design and Digital Image Processing.
 
-Here are some ideas to get you started:
+## Current Project
+I am currently working on a Database-Management-System to self-host chess tournaments 
+and track game records and player's progress.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Notable Projects
+- [Digital Camera System](https://github.com/yahya2912/arduino-nano-esp32-ov7670)
+- [PID-Controller](https://github.com/yahya2912/pid-controller-c)
+- [Digital Clock](https://github.com/yahya2912/digital-clock)
+- [Digital Journal](https://github.com/yahya2912/digital-journal)
+
+### Programming languages I know
+- C
+- C++
+- Java
+
+### Programmers I like
+[Sebastian Lague](https://www.youtube.com/@SebastianLague)
+[Tsoding Daily](https://www.youtube.com/@TsodingDaily)
