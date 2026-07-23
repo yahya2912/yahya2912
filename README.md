@@ -19,5 +19,5 @@ and track game records and player's progress.
 - Java
 
 ### Programmers I like
-[Sebastian Lague](https://www.youtube.com/@SebastianLague)
-[Tsoding Daily](https://www.youtube.com/@TsodingDaily)
+- [Sebastian Lague](https://www.youtube.com/@SebastianLague)
+- [Tsoding Daily](https://www.youtube.com/@TsodingDaily)
