@@ -2,7 +2,7 @@
 
 I'm an engineering student at **THGA Bochum**, studying **Informationstechnik und Digitalisierung**.
 
-I'm especially interested in **embedded systems**, **IoT**, **backend/database development**, and **computer vision**. I enjoy building projects that connect hardware, software, and data into complete working systems.
+I'm especially interested in **embedded systems**, **IoT**, and **computer vision**. I enjoy building projects that connect hardware and software into complete working systems.
 
 ## Featured Projects
 
@@ -27,20 +27,18 @@ C · C++ · Python · Java · SQL
 FastAPI · PostgreSQL · Docker Compose · pytest
 
 **Embedded & IoT**  
-ESP32 · AVR · 8051 · I²C · SPI · UART · LoRaWAN · KiCad
+ESP32 · AVR · I²C · SPI · UART · LoRaWAN · KiCad
 
 **Tools & Platforms**  
-Git · GitHub Actions · Linux · ROS 2 · Android Studio · LaTeX
+Git · Linux
 
 ## What I Like Building
 
 - Embedded systems and custom PCBs
 - IoT devices and sensor systems
-- Database-backed applications
 - Low-level C/C++ projects
-- Computer vision and digital imaging projects
 
-## Developers I Enjoy Following
+## Developers I Like
 
 - [Sebastian Lague](https://www.youtube.com/@SebastianLague)
 - [Tsoding Daily](https://www.youtube.com/@TsodingDaily)
